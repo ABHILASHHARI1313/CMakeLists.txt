@@ -1,0 +1,2 @@
+#Debian 
+sudo apt-get install xtensor-dev 
